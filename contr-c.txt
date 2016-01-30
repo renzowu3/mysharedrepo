@@ -1,0 +1,2 @@
+git add contri-c.txt
+git commit -m "merged updates on contr-c.txt"
